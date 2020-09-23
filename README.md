@@ -1,1 +1,1 @@
-# je-suis-lousy-programmer
+# lousy-programmer
